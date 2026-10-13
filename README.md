@@ -16,14 +16,57 @@
 
 
 
-## About
+<h2 align="center">About Me <code>~/terminal</code></h2>
 
-I'm **Namitha M S**, a Computer Science professional specializing in **Artificial Intelligence and Data Science** at Cochin University of Science and Technology (CUSAT). I enjoy building and experimenting with AI systems across computer vision, NLP, and generative AI.
+<div align="center">
 
-- **AI engineering:** model experimentation, OCR, face matching, and AI-powered applications
-- **Research interests:** multimodal learning, medical image analysis, deepfake detection, and NLP
-- **Currently exploring:** retrieval-augmented generation (RAG), LLM fine-tuning, and AI agents
-- **Creative side:** UI design and visual storytelling
+<table>
+<tr>
+<td>
+
+```bash
+┌──(namitha㉿ai-engineer)-[~]
+└─$ whoami
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+```text
+Namitha M S
+AI Engineer | Machine Learning | Generative AI
+
+$ cat interests.txt
+
+  Computer Vision
+  Natural Language Processing
+  Large Language Models
+  Multimodal AI
+  AI-powered applications
+
+$ ls experience/
+
+  NIT Calicut       Research Internship
+  Pixl.ai           AI Engineering
+  Pix Dynamics      Computer Vision
+
+$ cat current_goal.txt
+
+  Turn research ideas into practical AI systems.
+  Keep experimenting. Keep learning.
+```
+
+<div align="center">
+
+<a href="https://github.com/namitha2306?tab=repositories">
+<img src="https://img.shields.io/badge/command-explore--projects-161B22?style=flat-square&logo=github&logoColor=79C0FF" alt="Explore projects"/>
+</a>
+
+</div>
+
 
 ## Tech stack
 
