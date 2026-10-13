@@ -32,8 +32,6 @@ Beyond code: UI design, creative problem-solving, and building intuitive digital
 
 I enjoy the process of turning an interesting research idea into something people can actually use.
 
-What I work with
-
 
 ## Tech stack
 
