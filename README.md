@@ -1,16 +1,23 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B14,45:101D3A,100:2563EB&text=NAMITHA%20M%20S&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20GENERATIVE%20AI&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Namitha M S — AI Engineering, Machine Learning and Generative AI"/>
+<a href="https://github.com/namitha2306">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05070D,35:0B1630,70:172554,100:312E81&text=NAMITHA%20M%20S&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%20ENGINEER%20%2F%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=14&descAlignY=58&animation=fadeIn&stroke=60A5FA&strokeWidth=1" width="100%" alt="Namitha M S — AI Engineer"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=93C5FD&center=true&vCenter=true&width=700&lines=Building+practical+AI+applications;Exploring+LLMs%2C+RAG+and+multimodal+learning;From+research+ideas+to+working+prototypes;Computer+Vision+%7C+NLP+%7C+Generative+AI" alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=93C5FD&center=true&vCenter=true&width=650&height=60&lines=Turning+ideas+into+intelligent+systems;Exploring+LLMs%2C+RAG+%26+Multimodal+AI;Computer+Vision+%7C+NLP+%7C+Generative+AI;Research.+Experiment.+Build.+Repeat." alt="Animated AI engineering tagline"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/namitha-m-s-835692227"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-three-pied-kxwsmbz6dm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/namitha2306"><img src="https://img.shields.io/badge/GitHub-Projects-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/namitha2306">
+<img src="https://img.shields.io/badge/FOCUSED_ON-AI_ENGINEERING-172554?style=flat-square&labelColor=0B1020" alt="AI Engineering"/>
+</a>
+<a href="https://linkedin.com/in/namitha-m-s-835692227">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-1D4ED8?style=flat-square&labelColor=0B1020&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 
 </div>
+
+
 
 ---
 
