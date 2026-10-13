@@ -16,56 +16,23 @@
 
 
 
-<h2 align="center">About Me <code>~/terminal</code></h2>
+About me
 
-<div align="center">
+I'm Namitha M S, a Computer Science graduate specializing in Artificial Intelligence and Data Science from Cochin University of Science and Technology (CUSAT).
 
-<table>
-<tr>
-<td>
+I enjoy exploring how AI models work, experimenting with research ideas, and turning them into practical applications. My interests span computer vision, natural language processing, large language models, and AI-powered application development.
 
-```bash
-┌──(namitha㉿ai-engineer)-[~]
-└─$ whoami
-```
+Currently exploring: LLM applications, RAG pipelines, model fine-tuning, and AI agents.
 
-</td>
-</tr>
-</table>
+Research interests: Multimodal learning, deepfake detection, medical image analysis, and NLP.
 
-</div>
+Hands-on experience: AI engineering, OCR pipelines, computer vision, and model experimentation.
 
-```text
-Namitha M S
-AI Engineer | Machine Learning | Generative AI
+Beyond code: UI design, creative problem-solving, and building intuitive digital experiences.
 
-$ cat interests.txt
+I enjoy the process of turning an interesting research idea into something people can actually use.
 
-  Computer Vision
-  Natural Language Processing
-  Large Language Models
-  Multimodal AI
-  AI-powered applications
-
-$ ls experience/
-
-  NIT Calicut       Research Internship
-  Pixl.ai           AI Engineering
-  Pix Dynamics      Computer Vision
-
-$ cat current_goal.txt
-
-  Turn research ideas into practical AI systems.
-  Keep experimenting. Keep learning.
-```
-
-<div align="center">
-
-<a href="https://github.com/namitha2306?tab=repositories">
-<img src="https://img.shields.io/badge/command-explore--projects-161B22?style=flat-square&logo=github&logoColor=79C0FF" alt="Explore projects"/>
-</a>
-
-</div>
+What I work with
 
 
 ## Tech stack
