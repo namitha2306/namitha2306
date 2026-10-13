@@ -37,41 +37,44 @@ I enjoy exploring how AI models work, experimenting with research ideas, and tur
 
 > I enjoy the process of turning an interesting research idea into something people can actually use.
 
-## `01` — What I work with
+## Tech Stack
 
 <div align="center">
 
-### AI / Machine Learning
+**AI & Machine Learning**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/></a>
+<a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="scikit-learn"/></a>
 
-### Generative AI / Backend
+**Generative AI & Backend**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" alt="Qdrant"/>
+<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="48" height="48" alt="LangChain"/></a>
+<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
+<a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="48" height="48" alt="Qdrant"/></a>
 
-### Development / Design
+**Development & Design**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/></a>
+
+<br/>
+
+*Exploring: RAG · LoRA Fine-tuning · Multimodal AI · LLM Applications*
 
 </div>
 
-**Currently exploring:** RAG · LoRA fine-tuning · Multimodal AI · LLM applications · Computer Vision
 
 ## Featured projects
 
